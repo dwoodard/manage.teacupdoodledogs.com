@@ -1,4 +1,4 @@
-module.exports = {
+fmodule.exports = {
   root: true,
 
   env: {
